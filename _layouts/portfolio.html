@@ -6,7 +6,7 @@ layout: base
   {% for post in paginator.posts %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="portfolio-item">
       <div>
-        <h1 class="portfolio-title">{{ post.title }}</h1>
+        <h1 class="portfolio-title">&#128279; {{ post.title }}</h1>
         <div class="portfolio-line"></div>
 
         <div class="portfolio-content"> 
@@ -42,4 +42,8 @@ layout: base
     <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
   {% endif %}
   {% endfor %}
+</div>
+
+<div class="tx-right">
+  <a href="#" class="top">Top</a>
 </div>

@@ -1,3 +1,22 @@
 .fw-600 {
   font-weight: 600
 }
+.tx-right {
+  text-align: right;
+}
+table {
+  border-collapse: collapse;
+}
+table th {
+  width: 150px;
+  padding: 5px;
+  font-weight: bold;
+  vertical-align: top;
+  border: 1px solid #ccc;
+}
+table td {
+  width: 300px;
+  padding: 5px;
+  vertical-align: top;
+  border: 1px solid #ccc;
+}
