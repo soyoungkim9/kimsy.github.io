@@ -3,25 +3,52 @@ layout: about
 ---
 
 # About Me
-sample용 입니다. 개발 중
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+웹/앱 서비스 프론트개발과 백엔드개발을 하는 5년차 웹개발자 김소영입니다. 
+금융기관 웹/앱 시스템을 개발하는 SI 개발팀에서 근무하면서 금융투자업계의 다양한 TR, API, 화면 및 기능개발을 하며 실무 경험을 쌓았습니다.
+<br/>
+
+고객에게 최고의 서비스를 제공하기 위해서는 그에 따른 개발 역량과 의사소통 능력이 필요하다고 생각합니다. 
+전 직장 SI개발팀에서 다양한 프로젝트를 관리하고 개발하였습니다.
+근무하며 고객의 다양한 요구사항에 대응하기 위해 의사소통능력과 그에 맞는 기술을 빠르게 학습하고 적용할 수 있는 개발역량을들을 키워왔습니다.
+<br/>
+
+Java, JavaScript, sql 기술 기반의 다양한 웹/앱 프로젝트 경험이 있어 해당 기술에 기본기가 되어 있어 다양한 프레임워크나 라이브러리에 대해 적응하고 활용 할 수 있고
+금융관련 도메인지식을 갖추고 있습니다.
+
+<br/>
+
+# Skill
+* **Front-End**
+  * HTML5, CSS3, JavaScript(ES6), Bootstrap, Jquery, Vue.js(3.0)
+* **Back-End**
+  * Java, Spring Boot
+* **Database**
+	* Oracle, MySQL
+* **Tool & IDEs**
+	* Eclipse, IntelliJ, VS Code, Git, SVN, Postman, Toad, Putty, Vim
 
 <br/>
 
 # Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+* **(주)사이버이메지네이션 (2018. 12 ~ 2023. 06, <mark>총 4년 7개월</mark>)**
+  * SI 개발팀 / 대리
+  * 증권, 보험 등 금융권 웹서비스 화면개발 및 업무 프로세스 기능 개발 담당
+  * TR, API, Front-End, Back-End 등 Full-Stack 개발 담당
 
 <br/>
 
-# Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+# Education
+* **전북대학교 학사 졸업 (2013. 03 ~ 2018. 08)**
+  * 한약자원학 (주)
+  * 컴퓨터공학 (복수)
+
+<br/>
+
+# License
+
+
+|일자|자격증명|발급 기관|
+|:------:|:---:|:---:|
+|2018. 05. 25|정보처리기사|한국산업인력공단|
+|2017. 10. 20|컴퓨터그래픽스운용기능사|한국산업인력공단|
+
